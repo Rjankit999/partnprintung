@@ -1,2 +1,2 @@
 # partnprintung
-Authur Name: Ankit
+Authur Name: Rj Ankit
